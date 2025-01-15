@@ -150,7 +150,7 @@ This project successfully demonstrated the application of machine learning for s
 
 1. Clone the repository:
    ```bash
-   git clone "this repo url"
+   git clone "https://github.com/Luffy-456/TTWO-Stock-Analysis-and-Prediction.git"
    ```
 2. Install required libraries:
    ```bash
